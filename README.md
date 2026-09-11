@@ -1,4 +1,4 @@
-# Olá, mundo! Sou a Júlia Duarte 🚀
+# Hello, World!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Em_Evolução_Contínua-blue?style=for-the-badge&logo=github" alt="Status" />
