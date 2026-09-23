@@ -26,7 +26,7 @@
 
 <p align="left">
 
-  <img src="https://skillicons.dev/icons?i=python,powershell,csharp,azure,git,github,linux,bash,mysql,docker" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,powershell,cs,azure,git,github,linux,bash,mysql,docker" alt="Tech Stack" />
 
 </p>
 
