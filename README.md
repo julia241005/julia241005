@@ -9,7 +9,6 @@
 | Projeto | O que faz | Stack |
 |---|---|---|
 | [AZ-900 Tutor](https://github.com/julia241005/az900-tutor) · [demo](https://julia241005.github.io/az900-tutor/) | Tutor com IA local (RAG) que responde citando a documentação oficial da Microsoft, aplica simulados e mede o próprio acerto | Python, FastAPI, ChromaDB, Ollama |
-| [Cloud Migration Assurance Platform](https://github.com/julia241005/cloud-migration-assurance-platform) | Valida workloads após migração para nuvem: rede, DNS, IIS, banco e evidências | C#, .NET |
 | [Azure FinOps Lab](https://github.com/julia241005/azure-finops-lab) | Analisa custos de nuvem, identifica desperdícios e estima economia | Python, Pytest |
 | [Pentest Lab](https://github.com/julia241005/pentest-lab-virtualizado) | Reconhecimento de rede em laboratório isolado, com achados de risco e recomendações | Kali Linux, Nmap |
 | [Python BDD Testing](https://github.com/julia241005/python-bdd-testing) | Testes automatizados com BDD, unitários e de integração | Python, Behave, Factory Boy |
@@ -24,10 +23,15 @@
 - **IA e dados:** RAG, Ollama, ChromaDB, Pandas, Kafka (Confluent)
 - **Bancos de dados:** SQL Server, PostgreSQL, MySQL, SQLite
 
+## Estudando agora
+
+- AZ-104 (Azure Administrator) e C#/.NET
+- IA aplicada à segurança
+
 ## Formação e certificações
 
-- Tecnologia em Segurança da Informação 
+- Tecnologia em Segurança da Informação — Centro Universitário Senac (conclusão prevista: 1º semestre de 2027)
 - HackerRank: Software Engineer e Python
 - IBM/Coursera: CI/CD e Test-Driven Development
 - AWS Skill Builder: Observability e Foundations of Prompt Engineering
-- Microsoft AZ-900
+- Microsoft AZ-900 (prova em novembro de 2026)
