@@ -1,89 +1,36 @@
-# Hello, World!
+# Júlia Duarte Silva
 
+**Segurança da Informação · Cloud (Azure) · DevOps** — automatizo infraestrutura, pipelines e verificações de segurança com Python, PowerShell e C#.
 
+[Mapa de carreira](https://julia241005.github.io/mapa_de_carreira/) · [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-duarte-809857243) · duartejulia249@gmail.com
 
-<p align="left">
+## Projetos em destaque
 
-  <img src="https://img.shields.io/badge/Status-Em_Evolução_Contínua-blue?style=for-the-badge&logo=github" alt="Status" />
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [Cloud Migration Assurance Platform](https://github.com/julia241005/cloud-migration-assurance-platform) | Valida workloads após migração para nuvem: rede, DNS, IIS, banco e evidências | C#, .NET |
+| [Azure FinOps Lab](https://github.com/julia241005/azure-finops-lab) | Analisa custos de nuvem, identifica desperdícios e estima economia | Python, Pytest |
+| [Pentest Lab](https://github.com/julia241005/pentest-lab-virtualizado) | Laboratório virtualizado de reconhecimento e análise de vulnerabilidades | Kali Linux, Nmap |
+| [Python BDD Testing](https://github.com/julia241005/python-bdd-testing) | Testes automatizados com BDD, unitários e de integração | Python, Behave, Factory Boy |
+| [Artemys ETL](https://github.com/julia241005/artemys-etl-dados) | Pipeline de ETL da plataforma Artemys | Python, Pandas |
 
-  <img src="https://img.shields.io/badge/Focus-Infrastructure_%26_DevOps-orange?style=for-the-badge&logo=linux" alt="Focus" />
+## Stack
 
-</p>
+- **Linguagens:** Python, PowerShell, C# (.NET), SQL, Java, JavaScript
+- **Cloud e DevOps:** Microsoft Azure (VNets, NSGs, Key Vault), AWS, GitHub Actions, self-hosted runners, CI/CD
+- **Infraestrutura e redes:** Linux (Debian), Windows Server, IIS, pfSense, VLANs, Zabbix, Grafana
+- **Segurança:** LGPD, OWASP Top 10, Nmap, Kali Linux
+- **Bancos de dados:** SQL Server, MySQL, SQLite
 
+## Estudando agora
 
+- AZ-104 (Azure Administrator) e C#/.NET
+- IA aplicada à segurança
 
-**Infraestrutura, automação e desenvolvimento de sistemas resilientes.** Atuo na intersecção entre o desenvolvimento de software e a engenharia de infraestrutura, com forte foco em automação de processos, pipelines de CI/CD e segurança de ambientes corporativos.
+## Formação e certificações
 
-
-
----
-
-
-
-**Core Tech Stack & Ferramentas**
-
-
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,powershell,cs,azure,git,github,linux,bash,mysql,docker" alt="Tech Stack" />
-
-</p>
-
-
-
-* **Linguagens & Scripting:** Python (Automação, Pandas, Selenium), PowerShell (Automação avançada e scripts V2), C# (.NET backend).
-
-* **Cloud & DevOps:** Microsoft Azure (VNets, NSGs, Key Vault), GitHub Actions, Self-hosted Runners, CI/CD pipelines.
-
-* **Infraestrutura & Redes:** Windows Server, IIS (Internet Information Services), pfSense, Zabbix, Grafana, segmentação de redes (VLANs).
-
-* **Banco de Dados:** MySQL, SQL Server, SQLite.
-
-
-
----
-
-
-
-**Projetos em Destaque**
-
-
-
-* **[IIS Automation Pipeline](https://github.com/julia241005/iis-automation-pipeline):** Solução de Infraestrutura como Código (IaC) integrando GitHub Actions, Self-hosted Runners e scripts PowerShell V2 altamente idempotentes para o provisionamento e deploy seguro de aplicações no IIS.
-
-* **Python BDD Testing:** Projeto de automação de testes comportamentais estruturados com BDD (Behave) e validação de fluxos de software em Python.
-
-* **CI/CD Pipelines:** Implementação de esteiras automatizadas de entrega contínua baseadas nas melhores práticas de mercado (Certificação IBM).
-
-
-
----
-
-
-
-**Certificações & Desenvolvimento Acadêmico**
-
-
-
-* **Formação:** Graduanda em Tecnologia em Segurança da Informação pelo Centro Universitário Senac.
-
-* **Certificações:** Software Engineer e Python Certification (HackerRank), especializações em CI/CD e Test-Driven Development (IBM/Coursera).
-
-
-
----
-
-
-
-**Vamos nos Conectar?**
-
-
-
-<p align="left">
-
-  <a href="https://linkedin.com/in/júlia-duarte-809857243" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-  <a href="mailto:duartejulia249@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</p>
+- Tecnologia em Segurança da Informação — Centro Universitário Senac (conclusão prevista: 1º semestre de 2027)
+- HackerRank: Software Engineer e Python
+- IBM/Coursera: CI/CD e Test-Driven Development
+- AWS Skill Builder: Observability e Foundations of Prompt Engineering
+- Microsoft AZ-900 (prova em novembro de 2026)
