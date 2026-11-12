@@ -23,14 +23,9 @@
 - **IA e dados:** RAG, Ollama, ChromaDB, Pandas, Kafka (Confluent)
 - **Bancos de dados:** SQL Server, PostgreSQL, MySQL, SQLite
 
-## Estudando agora
-
-- AZ-104 (Azure Administrator) e C#/.NET
-- IA aplicada à segurança
-
 ## Formação e certificações
 
-- Tecnologia em Segurança da Informação — Centro Universitário Senac (conclusão prevista: 1º semestre de 2027)
+- Tecnologia em Segurança da Informação — 
 - HackerRank: Software Engineer e Python
 - IBM/Coursera: CI/CD e Test-Driven Development
 - AWS Skill Builder: Observability e Foundations of Prompt Engineering
