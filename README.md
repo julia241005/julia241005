@@ -8,11 +8,12 @@
 
 | Projeto | O que faz | Stack |
 |---|---|---|
+| [AZ-900 Tutor](https://github.com/julia241005/az900-tutor) · [demo](https://julia241005.github.io/az900-tutor/) | Tutor com IA local (RAG) que responde citando a documentação oficial da Microsoft, aplica simulados e mede o próprio acerto | Python, FastAPI, ChromaDB, Ollama |
 | [Cloud Migration Assurance Platform](https://github.com/julia241005/cloud-migration-assurance-platform) | Valida workloads após migração para nuvem: rede, DNS, IIS, banco e evidências | C#, .NET |
 | [Azure FinOps Lab](https://github.com/julia241005/azure-finops-lab) | Analisa custos de nuvem, identifica desperdícios e estima economia | Python, Pytest |
-| [Pentest Lab](https://github.com/julia241005/pentest-lab-virtualizado) | Laboratório virtualizado de reconhecimento e análise de vulnerabilidades | Kali Linux, Nmap |
+| [Pentest Lab](https://github.com/julia241005/pentest-lab-virtualizado) | Reconhecimento de rede em laboratório isolado, com achados de risco e recomendações | Kali Linux, Nmap |
 | [Python BDD Testing](https://github.com/julia241005/python-bdd-testing) | Testes automatizados com BDD, unitários e de integração | Python, Behave, Factory Boy |
-| [Artemys ETL](https://github.com/julia241005/artemys-etl-dados) | Pipeline de ETL da plataforma Artemys | Python, Pandas |
+| [Artemys ETL](https://github.com/julia241005/artemys-etl-dados) | ETL de chamados para o Azure SQL, com painel em Streamlit | Python, Pandas, Streamlit |
 
 ## Stack
 
@@ -20,7 +21,8 @@
 - **Cloud e DevOps:** Microsoft Azure (VNets, NSGs, Key Vault), AWS, GitHub Actions, self-hosted runners, CI/CD
 - **Infraestrutura e redes:** Linux (Debian), Windows Server, IIS, pfSense, VLANs, Zabbix, Grafana
 - **Segurança:** LGPD, OWASP Top 10, Nmap, Kali Linux
-- **Bancos de dados:** SQL Server, MySQL, SQLite
+- **IA e dados:** RAG, Ollama, ChromaDB, Pandas, Kafka (Confluent)
+- **Bancos de dados:** SQL Server, PostgreSQL, MySQL, SQLite
 
 ## Estudando agora
 
